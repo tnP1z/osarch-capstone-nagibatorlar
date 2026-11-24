@@ -26,13 +26,13 @@ A full walkthrough with evidence lives in [`evidence/deployment-walkthrough.md`]
 
 ## Team and roles
 
-Roles agreed on: _dd.mm.2026_. Every member must be able to explain **every** part of the project at the defence, not only their own.
+Roles agreed on: _24.11.2026_. Every member must be able to explain **every** part of the project at the defence, not only their own.
 
 | Member | GitHub | Primary responsibility | Secondary (reviews) |
 |---|---|---|---|
-| Kadik | @tnP1z | … | … |
-| Marzhan Amantay | @marzhanNagibator777 | … | … |
-| Tolganay Nursapa | @Tolganayy0806 | … | … |
+| Kadirzhan | @tnP1z | Infrastructure: VMs, hypervisor, network; `docs/architecture.md`, `evidence/deployment-walkthrough.md`; runbook for network/VM failure | Reviews Tolganay's Windows work |
+| Marzhan Amantay | @marzhanNagibator777 | Linux node; bash scripts (inventory collection, scheduled maintenance); `scripts/bash/README.md`; runbook for a Linux failure | Reviews Kadirzhan's infrastructure |
+| Tolganay Nursapa | @Tolganayy0806 | Windows node; PowerShell onboarding script; `docs/hardware-standard.md`; runbook for a Windows failure | Reviews Marzhan's Linux work |
 
 ## Who did what
 
