@@ -5,5 +5,5 @@ Add an entry every time you work on the project: who, what, how long, what went 
 
 | Date | Member | What was done | Time | Problems / notes |
 |---|---|---|---|---|
-| 24.11.2026 | Kadik | Created repository and folder structure | | |
+| 24.11.2026 | Kadik | Created repository and folder structure | 15 min | |
 | 24.11.2026 | Marzhan | Recorded agreed team roles in README | 10 min | |
