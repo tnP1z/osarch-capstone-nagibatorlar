@@ -1,0 +1,29 @@
+# Virtual machine disks and runtime files (never commit these)
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow2
+*.iso
+*.ova
+*.ovf
+*.sav
+*.nvram
+*.vbox-prev
+Logs/
+.vagrant/
+
+# Secrets
+*.pem
+*.key
+.env
+secrets/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
